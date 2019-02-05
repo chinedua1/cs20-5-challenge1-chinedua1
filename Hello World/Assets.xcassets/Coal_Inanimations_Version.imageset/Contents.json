@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "Coal_Inanimations_Version.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "coal@2x.png",
       "scale" : "2x"
     },
     {
